@@ -1,0 +1,15 @@
+eclipse
+~; container:start; container:reload /
+exit
+tasks
+help tasks
+tasks -V
+inspect container
+container:start
+container:reload
+container:stop
+container:start
+container:stop
+container:start
+container:stop
+exit
